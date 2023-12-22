@@ -1,6 +1,6 @@
 # МЕТОДИЧЕСКИХ РЕКОМЕНДАЦИЙ ПО КУРСУ «ОСНОВЫ СЕТЕВЫХ ТЕХНОЛОГИЙ»	
 
-[Перейти к Заголовку 1](#title1)
+[Перейти к Заголовку 1]
 
 
 
@@ -8,7 +8,7 @@
 
 <details>
  <details>
-  <summary>Применение Cisco Packet Tracer в учебном процессе</summary>
+  <summary>[Применение Cisco Packet Tracer в учебном процессе](#title1)</summary>
  авыва
  </details>
  <summary>Содержание</summary>
